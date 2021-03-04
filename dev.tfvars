@@ -14,7 +14,7 @@ tags    =   {
     Name                    =   "VPC_Project"
     Environment             =   "Dev"
     Team                    =   "DevOps"
-    Created_by              =   "Farrukh"
+    Created_by              =   "Enver"
     Department              =   "IT"
     Bill                    =   "CFO"
 }
