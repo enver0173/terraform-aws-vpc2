@@ -3,7 +3,7 @@ Please provide below requirements
 
 ```
 module "vpc" {
-  source  = "farrukh90/vpc/aws"
+  source  = "enver0173/aws/vpc2"
   region = "us-east-1"
   vpc_cidr = "10.0.0.0/16"
   public_cidr1 = "10.0.1.0/24"
